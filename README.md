@@ -7,11 +7,11 @@
 ```bash
  npm i
 ```
-#### Run the test in chrome
+#### Run the test in Chrome
 ```bash
  npm run mercadolibre:chrome
 ```
-#### Run thetest in firefox
+#### Run thetest in Firefox.
 ```bash
  npm run mercadolibre:firefox
 ```
@@ -24,7 +24,7 @@
 
 ##### UI Automation: 
 
-A new online clothing store needs to know if its prices are competitive before going on the market, for this they ask us to create a test in Selenium, WebDriverIO or Playwright that obtains the information from the first 3 pages of MercadoLibre when searching for “camisetas” for be able to use that information in the testing database.
+A new online clothing store needs to know if its prices are competitive before going on the market, so they ask us to create a test in Selenium, WebDriverIO, or Playwright that obtains the information from the first 3 pages of MercadoLibre when searching for “camisetas” to be able to use that information in the testing database.
 
 ##### API Automation: 
 
@@ -37,4 +37,4 @@ Step 4 - Create an order for a pet
 Step 5 - Update User
 Step 6 - Logout
 
-You can get the postman collection here: [link]([https://breakdance.github.io/breakdance/](https://github.com/FDelpoggio/abstracta-automation/blob/main/tests/api/Abstracta-api-testing.postman_collection.json)https://github.com/FDelpoggio/abstracta-automation/blob/main/tests/api/Abstracta-api-testing.postman_collection.json)
+You can get the postman collection here: [link](https://github.com/FDelpoggio/abstracta-automation/blob/main/tests/api/Abstracta-api-testing.postman_collection.json)
