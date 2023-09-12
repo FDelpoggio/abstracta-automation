@@ -362,7 +362,7 @@
 	"variable": [
 		{
 			"key": "baseURL",
-			"value": "api URL"
+			"value": "https://petstore.swagger.io/v2"
 		},
 		{
 			"key": "username",
@@ -383,10 +383,6 @@
 			"key": "password-invalid",
 			"value": "password",
 			"type": "string"
-		},
-		{
-			"key": "petId",
-			"value": ""
 		}
 	]
 }
