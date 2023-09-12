@@ -1,0 +1,17 @@
+{
+  "name": "abstracta-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mercadolibre:chrome": "npx playwright test MercadolibrePrices.spec.js  --project=chromium",
+    "mercadolibre:firefox": "npx playwright test MercadolibrePrices.spec.js  --project=firefox",
+    "mercadolibre:all": "npx playwright test MercadolibrePrices.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
